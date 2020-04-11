@@ -1,0 +1,1 @@
+document.querySelectorAll("a").forEach(function(i) {i.setAttribute('target', '_blank')});
